@@ -44,4 +44,11 @@ Todo mi trabajo se desarrolla en un entorno **open source**, fomentando la colab
 
 ---
 
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/EMARTINEZ1993/EMARTINEZ1993/output/pacman-contribution-graph.svg"
+    alt="Pac-Man contribution graph"
+  />
+</p>
+
 ⭐ **Aprender haciendo es el camino. Construyamos algo increíble juntos.**
