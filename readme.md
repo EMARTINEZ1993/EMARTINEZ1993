@@ -1,7 +1,16 @@
 # 👋 Hola, soy Luz Eliana Martinez Ramos
 
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Instructor+de+Programación;Desarrolladora+de+Proyectos+Educativos;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Machine+Learning+%7C+Computer+Vision;Aprender+haciendo+%E2%9C%94%EF%B8%8F" alt="Typing animation" />
+  <img src="https://github.com/EMARTINEZ1993.png" alt="Luz Eliana Martinez Ramos" width="200" height="200" style="border-radius: 90%;" />
+</p>
+
+<!-- Badge alternativo en caso de que la imagen no cargue -->
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/Instructor%20de%20Programación-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Desarrolladora%20Educativa-58A6FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python%20%7C%20JavaScript%20%7C%20React%20%7C%20Node.js-58A6FF?style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -50,17 +59,6 @@ Experimentación con modelos de Machine Learning aplicados a problemas práctico
 - Evaluación y optimización de modelos
 - Aplicaciones educativas de IA
 
-### 👁️ Computer Vision
-Soluciones visuales interactivas para reconocimiento y procesamiento:
-- **OpenCV**: Procesamiento de imágenes y video
-- **MediaPipe**: Reconocimiento de gestos y estimación de pose
-- Aplicaciones en tiempo real
-
-### 🎓 Tecnología Educativa
-Herramientas y recursos diseñados específicamente para la enseñanza:
-- Proyectos didácticos paso a paso
-- Ejemplos prácticos y repositorios educativos
-- Material para aprendizaje basado en proyectos
 
 ---
 
@@ -109,10 +107,8 @@ Herramientas y recursos diseñados específicamente para la enseñanza:
 
 ## 📊 Estadísticas de GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EMARTINEZ1993&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMARTINEZ1993&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top languages" />
-</p>
+<!-- Versión mejorada con temas más estables -->
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=EMARTINEZ1993&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
@@ -136,17 +132,4 @@ Herramientas y recursos diseñados específicamente para la enseñanza:
 
 Mi enfoque pedagógico se basa en un principio fundamental: **el aprendizaje significativo ocurre cuando se construye, se experimenta y se comparte**.
 
-### 🔄 Ciclo de aprendizaje
 
-Cada proyecto que desarrollo sigue un flujo continuo que conecta la teoría con la práctica:
-
-```mermaid
-graph LR
-    A[💡 Idea] --> B[🧠 Concepto]
-    B --> C[💻 Código]
-    C --> D[🛠️ Proyecto]
-    D --> E[🧪 Pruebas]
-    E --> F[🚀 Despliegue]
-    F --> G[🎓 Aprendizaje]
-    G --> H[👨‍🏫 Enseñanza]
-    H --> A
