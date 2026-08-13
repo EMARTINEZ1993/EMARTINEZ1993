@@ -1,415 +1,164 @@
 # 👋 Hola, soy Luz Eliana Martinez Ramos
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Instructor+de+Programación;Desarrolladora+de+Proyectos+Educativos;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Machine+Learning+%7C+Computer+Vision;Learning+by+Building+Real+Projects"
-    alt="Typing animation"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Instructor+de+Programación;Desarrolladora+de+Proyectos+Educativos;Python+%7C+JavaScript+%7C+React+%7C+Node.js;Machine+Learning+%7C+Computer+Vision;Aprender+haciendo+%E2%9C%94%EF%B8%8F" alt="Typing animation" />
 </p>
 
 <p align="center">
   <a href="https://github.com/EMARTINEZ1993">
-    <img
-      src="https://img.shields.io/github/followers/EMARTINEZ1993?label=Followers&style=for-the-badge"
-      alt="GitHub followers"
-    />
+    <img src="https://img.shields.io/github/followers/EMARTINEZ1993?label=Followers&style=for-the-badge&color=58A6FF&logo=github" alt="GitHub followers" />
   </a>
-
   <a href="https://github.com/EMARTINEZ1993?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/EMARTINEZ1993?affiliations=OWNER&style=for-the-badge&label=Stars"
-      alt="GitHub stars"
-    />
+    <img src="https://img.shields.io/github/stars/EMARTINEZ1993?affiliations=OWNER&style=for-the-badge&label=Stars&color=58A6FF&logo=github" alt="GitHub stars" />
   </a>
-
-  <img
-    src="https://komarev.com/ghpvc/?username=EMARTINEZ1993&style=for-the-badge&color=58A6FF"
-    alt="Profile views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=EMARTINEZ1993&style=for-the-badge&color=58A6FF" alt="Profile views" />
 </p>
+
+---
+
+## 📋 Índice
+
+- [Sobre mí](#-sobre-mí)
+- [Áreas de trabajo](#-áreas-de-trabajo)
+- [Tech Stack](#-tech-stack)
+- [Proyectos destacados](#-proyectos-destacados)
+- [Estadísticas de GitHub](#-estadísticas-de-github)
+- [Filosofía de enseñanza](#-filosofía-de-enseñanza)
+- [Conectemos](#-conectemos)
 
 ---
 
 ## 👨‍🏫 Sobre mí
 
-Soy **Instructor de Programación** y desarrolladora de proyectos educativos orientados al aprendizaje práctico.
+Soy **Instructor de Programación** y desarrolladora apasionada por crear proyectos educativos que transformen la manera de aprender tecnología.
 
-Me especializo en enseñar programación mediante la construcción de **proyectos reales**, conectando los conceptos técnicos con problemas concretos y significativos.
+Mi enfoque se basa en:
 
-Mi enfoque combina:
+- **Aprendizaje práctico**: Enseño programación a través de proyectos reales y significativos.
+- **Conexión teoría-práctica**: Traduzco conceptos abstractos en soluciones concretas.
+- **Compartir conocimiento**: Creo recursos y herramientas que facilitan la enseñanza.
 
-- 💻 Desarrollo de software
-- 🌐 Desarrollo Web
-- 📊 Análisis y visualización de datos
-- 🤖 Machine Learning
-- 👁️ Computer Vision
-- 🎓 Tecnología aplicada a la educación
-
-Creo que la programación se comprende mejor cuando se **aprende construyendo**.
-
-> **Aprender haciendo. Construir para comprender. Compartir para enseñar.**
+> **"Aprender haciendo. Construir para comprender. Compartir para enseñar."**
 
 ---
 
-## 🚧 Actualmente trabajando en...
+## 🧩 Áreas de trabajo
 
-Actualmente desarrollo y exploro proyectos relacionados con diferentes áreas de la programación y la tecnología.
-
-### 🌐 Web Development
-
-Construcción de aplicaciones web completas utilizando:
-
-- React
-- JavaScript
-- Node.js
-- Express
-- REST APIs
-- PostgreSQL
-- MySQL
+### 🌐 Desarrollo Web
+Creación de aplicaciones web completas con tecnologías modernas:
+- **Frontend**: React, JavaScript, HTML, CSS
+- **Backend**: Node.js, Express, REST APIs
+- **Bases de datos**: PostgreSQL, MySQL
 
 ### 📊 Data Science
+Transformación de datos en información útil y visualizable:
+- Análisis exploratorio y limpieza de datos
+- Visualización interactiva con **Pandas**, **NumPy**
+- Dashboards con **Streamlit**
 
-Transformación de datos en información útil mediante:
-
-- Python
-- Pandas
-- NumPy
-- Visualización de datos
-- Análisis exploratorio
-- Dashboards interactivos
-
-### 🤖 Machine Learning
-
-Experimentación con modelos de inteligencia artificial aplicados a problemas prácticos y educativos.
+### 🤖 Inteligencia Artificial
+Experimentación con modelos de Machine Learning aplicados a problemas prácticos:
+- Clasificación y regresión con **Scikit-learn**
+- Evaluación y optimización de modelos
+- Aplicaciones educativas de IA
 
 ### 👁️ Computer Vision
+Soluciones visuales interactivas para reconocimiento y procesamiento:
+- **OpenCV**: Procesamiento de imágenes y video
+- **MediaPipe**: Reconocimiento de gestos y estimación de pose
+- Aplicaciones en tiempo real
 
-Desarrollo de soluciones relacionadas con:
-
-- OpenCV
-- MediaPipe
-- Reconocimiento de gestos
-- Procesamiento de imágenes
-- Análisis de movimiento
-
-### 🎓 Educational Technology
-
-Creación de herramientas, ejemplos y proyectos que faciliten la enseñanza y el aprendizaje de programación.
+### 🎓 Tecnología Educativa
+Herramientas y recursos diseñados específicamente para la enseñanza:
+- Proyectos didácticos paso a paso
+- Ejemplos prácticos y repositorios educativos
+- Material para aprendizaje basado en proyectos
 
 ---
 
-# 🧰 Tech Stack
+## 🛠️ Tech Stack
 
-## 💻 Languages
-
+### 💻 Lenguajes
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,html,css,sql" alt="Programming languages" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,html,css" alt="Languages" />
 </p>
-
-## 🌐 Web Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,postgres,mysql" alt="Web development technologies" />
-</p>
-
-## 🤖 Data & Artificial Intelligence
-
-<p align="center">
-
-  <img
-    src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"
-    alt="Pandas"
-  />
-
-  <img
-    src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"
-    alt="NumPy"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"
-    alt="Scikit-learn"
-  />
-
-  <img
-    src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"
-    alt="OpenCV"
-  />
-
-  <img
-    src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white"
-    alt="MediaPipe"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
-    alt="Streamlit"
-  />
-
-</p>
-
-## 🛠️ Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Development tools" />
-</p>
-
----
-
-# 🧠 Areas of Interest
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
 
 ### 🌐 Web Development
-
-- Frontend
-- Backend
-- REST APIs
-- Databases
-- Application Architecture
-- Deployment
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data Science
-
-- Data Analysis
-- Data Cleaning
-- Visualization
-- Dashboards
-- Exploratory Data Analysis
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 Artificial Intelligence
-
-- Machine Learning
-- Classification
-- Regression
-- Predictive Models
-- Model Evaluation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 👁️ Computer Vision
-
-- OpenCV
-- MediaPipe
-- Image Processing
-- Gesture Recognition
-- Pose Estimation
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Statistics
-
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,vite,postgres,mysql" alt="Web" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=EMARTINEZ1993&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
-    height="180"
-    alt="GitHub statistics"
-  />
+### 🤖 Data & AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMARTINEZ1993&layout=compact&theme=github_dark&hide_border=true"
-    height="180"
-    alt="Top languages"
-  />
-
+### 🛠️ Herramientas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker" alt="Tools" />
 </p>
 
 ---
 
-# 🔥 Coding Streak
+## 🚀 Proyectos destacados
+
+| Área | Tecnologías | Descripción |
+|------|-------------|-------------|
+| **Web Applications** | React, Node.js, Express, PostgreSQL | Aplicaciones web completas con arquitectura moderna |
+| **Machine Learning** | Python, Pandas, Scikit-learn | Modelos de IA aplicados a problemas educativos |
+| **Computer Vision** | OpenCV, MediaPipe, Python | Soluciones interactivas de reconocimiento visual |
+| **Educational Projects** | Stack completo | Recursos y herramientas para aprender programación |
+
+🔍 [Explora todos mis repositorios →](https://github.com/EMARTINEZ1993?tab=repositories)
+
+---
+
+## 📊 Estadísticas de GitHub
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EMARTINEZ1993&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="180" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EMARTINEZ1993&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top languages" />
+</p>
 
-  <img
-    src="https://streak-stats.demolab.com?user=EMARTINEZ1993&theme=github-dark-blue&hide_border=true"
-    alt="GitHub contribution streak"
-  />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=EMARTINEZ1993&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EMARTINEZ1993&theme=github-compact&hide_border=true&area=true" alt="Activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EMARTINEZ1993/EMARTINEZ1993/output/pacman-contribution-graph.svg" alt="Pac-Man graph" />
+</p>
+
+<p align="center">
+  <sub>✨ Cada contribución impulsa el aprendizaje y la enseñanza.</sub>
 </p>
 
 ---
 
-# 📈 GitHub Activity
+## 🎓 Filosofía de enseñanza
 
-<p align="center">
+Mi enfoque pedagógico se basa en un principio fundamental: **el aprendizaje significativo ocurre cuando se construye, se experimenta y se comparte**.
 
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=EMARTINEZ1993&theme=github-compact&hide_border=true&area=true"
-    alt="GitHub activity graph"
-  />
+### 🔄 Ciclo de aprendizaje
 
-</p>
+Cada proyecto que desarrollo sigue un flujo continuo que conecta la teoría con la práctica:
 
----
-
-# 🟡 Contribution Quest
-
-<p align="center">
-
-  <img
-    src="https://raw.githubusercontent.com/EMARTINEZ1993/EMARTINEZ1993/output/pacman-contribution-graph.svg"
-    alt="Pac-Man contribution graph"
-  />
-
-</p>
-
-<p align="center">
-  <sub>Every contribution moves the journey forward.</sub>
-</p>
-
----
-
-# 🚀 Featured Projects
-
-<table>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 🌐 Web Applications
-
-Aplicaciones web completas desarrolladas con tecnologías modernas.
-
-**Technologies**
-
-- React
-- JavaScript
-- Node.js
-- Express
-- REST APIs
-- PostgreSQL
-- MySQL
-
-<a href="https://github.com/EMARTINEZ1993?tab=repositories">
-  View repositories →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🤖 Machine Learning
-
-Proyectos de análisis de datos e inteligencia artificial.
-
-**Technologies**
-
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Data Visualization
-
-<a href="https://github.com/EMARTINEZ1993?tab=repositories">
-  View repositories →
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## 👁️ Computer Vision
-
-Proyectos relacionados con visión por computador y reconocimiento de movimiento.
-
-**Technologies**
-
-- OpenCV
-- MediaPipe
-- Python
-- Image Processing
-- Gesture Recognition
-
-<a href="https://github.com/EMARTINEZ1993?tab=repositories">
-  View repositories →
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🎓 Educational Projects
-
-Aplicaciones y recursos orientados al aprendizaje de programación.
-
-**Topics**
-
-- Programming Education
-- Project-Based Learning
-- APIs
-- Databases
-- Web Development
-
-<a href="https://github.com/EMARTINEZ1993?tab=repositories">
-  Explore projects →
-</a>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 🎓 Teaching Through Technology
-
-Mi objetivo es transformar conceptos abstractos de programación en **experiencias prácticas de aprendizaje**.
-
-```text
-        💡 IDEA
-          │
-          ▼
-      🧠 CONCEPT
-          │
-          ▼
-       💻 CODE
-          │
-          ▼
-      🛠️ PROJECT
-          │
-          ▼
-      🧪 TESTING
-          │
-          ▼
-      🚀 DEPLOY
-          │
-          ▼
-       🎓 LEARN
-          │
-          ▼
-       👨‍🏫 TEACH
+```mermaid
+graph LR
+    A[💡 Idea] --> B[🧠 Concepto]
+    B --> C[💻 Código]
+    C --> D[🛠️ Proyecto]
+    D --> E[🧪 Pruebas]
+    E --> F[🚀 Despliegue]
+    F --> G[🎓 Aprendizaje]
+    G --> H[👨‍🏫 Enseñanza]
+    H --> A
