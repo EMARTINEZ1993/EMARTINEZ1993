@@ -16,18 +16,6 @@
 
 ---
 
-## 📋 Índice
-
-- [Sobre mí](#-sobre-mí)
-- [Áreas de trabajo](#-áreas-de-trabajo)
-- [Tech Stack](#-tech-stack)
-- [Proyectos destacados](#-proyectos-destacados)
-- [Estadísticas de GitHub](#-estadísticas-de-github)
-- [Filosofía de enseñanza](#-filosofía-de-enseñanza)
-- [Conectemos](#-conectemos)
-
----
-
 ## 👨‍🏫 Sobre mí
 
 Soy **Instructor de Programación** y desarrolladora apasionada por crear proyectos educativos que transformen la manera de aprender tecnología.
