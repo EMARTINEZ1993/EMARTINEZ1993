@@ -1,10 +1,6 @@
 # 👋 Hola, soy Luz Eliana Martinez Ramos
 
 
-<p align="center">
-  <img src="https://github.com/EMARTINEZ1993.png" alt="Luz Eliana Martinez Ramos" width="200" height="200" style="border-radius: 90%;" />
-</p>
-
 <!-- Badge alternativo en caso de que la imagen no cargue -->
 <p align="center">
   
